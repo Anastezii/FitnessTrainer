@@ -1,0 +1,5 @@
+Type : football
+Minutes : 60
+Date : 09.05.2022 11:36:26
+Calories burned : 187
+Username : mimi

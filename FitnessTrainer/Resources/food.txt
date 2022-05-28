@@ -1,0 +1,7 @@
+Type food : banana
+Gramms : 90
+Date : 10.05.2022 9:15:28
+Calories burned : 89
+Username : mimi
+Amount of calories for a day : Sum of calories for a day
+Part of the day : morning
